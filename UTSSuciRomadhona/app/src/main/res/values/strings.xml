@@ -1,0 +1,11 @@
+<resources>
+    <string name="name">Nama: Suci Romadhona</string>
+    <string name="app_name">UTS Suci Romadhona</string>
+    <string name="prodi">Prodi: Sistem Informasi</string>
+    <string name="biodata_diri">BIODATA DIRI</string>
+    <string name="hobi">Hobi: Membaca</string>
+    <string name="alamat">Alamat: Karangsari, Kembaran</string>
+    <string name="matkul">MOBILE PORGRAMMING</string>
+    <string name="nim">NIM: STE202202783</string>
+    <string name="semester">Semester: 4</string>
+</resources>
